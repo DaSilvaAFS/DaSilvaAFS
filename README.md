@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning microservices and React.
 - 💞️ I’m looking to collaborate on this kind of projects stack.
 - 📫 How to reach me 73.afsilva@gmail.com
+- I work as a software developer for 28 years. So much time coding 
 
 <!---
 DaSilvaAFS/DaSilvaAFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
